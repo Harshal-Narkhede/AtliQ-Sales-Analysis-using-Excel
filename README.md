@@ -3,33 +3,29 @@ AtliQ is a hardware powerhouse, supplying PCs, mice, printers, and more to a div
 
 # Steps in making the reports
 
-# 1. Clean Up:
-
+1. Clean Up:
 Loaded all the data files (CSVs) into Power Query.
 Fixed any typos or missing information in the data.
 Removed any duplicate entries.
 Made sure each category table had a unique identifier (like a special ID number).
 
-# 2. Connect Everything:
-
+2. Connect Everything:
 Linked all the data tables together, like building with Legos. This helps see how things are related (e.g., sales figures and product types).
 Created a new "date table" using Power Query to separate dates into year, month, and day for easier analysis.
 Added a special column to track finances based on AtliQ's unique fiscal year (September to August) and connected it to the other tables.
 
-# 3. Ask Questions:
-
-Used PivotTables to explore the data and ask questions like "what were our top sellers last year?"
+3. Ask Questions:
+Used PivotTables to explore the data and ask questions like "What were our top sellers last year?"
 Created calculations (measures) to understand important things like profit margins (gross margin %) and cost of goods sold (COGS) for different time periods.
 
-# 4. Make it Clear:
-
+4. Make it Clear:
 Used colors and formatting to highlight important findings in the data, like which products were selling well or poorly. This made it easier to see what mattered most.
 
 # Insights
 
 # Market Trends and Customer Performance:
 
-# 🌍 Market Dominance: 
+🌍 **Market Dominance:** 
 India emerged as the top performer in 2021, with net sales soaring to $161.3 million  while Sweden recorded the lowest sales at $1.8 million. Other markets showcased varying degrees of sales volume, underscoring the diversity of our global presence.
 
 # 🤝 Customer Loyalty: 
