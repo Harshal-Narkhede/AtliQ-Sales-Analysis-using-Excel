@@ -56,6 +56,21 @@ Metrics like net sales, COGS, gross margin (GM), and GM% offered a comprehensive
 📉**Cost Management:**
 Identifying areas for cost optimization enables us to streamline operations and maximize profits, ensuring sustainable growth in the long run.
 
+# 📌 The Report Consists of: 
+**Sales Reports:** 
+1. Customer Performance Report
+2. Market Performance VS Target Report
+3. Top 10 Products and Top 5 Countries
+4. Top & Bottom 5 Products
+5. New Product - 2021
+
+**Finance Reports**
+1. P & L Fiscal Months
+2. P & L Fiscal Yearly
+3. P & L for Markets
+4. P & L GM% by Quaters(sub-zone)
+
+
 📈 **Data-Driven Decisions:**
 Armed with reliable data, we're empowered to make informed decisions that steer us towards our strategic objectives, ensuring continued success in a competitive landscape.
 
