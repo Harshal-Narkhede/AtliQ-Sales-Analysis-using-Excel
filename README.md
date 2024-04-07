@@ -56,6 +56,9 @@ Metrics like net sales, COGS, gross margin (GM), and GM% offered a comprehensive
 📉**Cost Management:**
 Identifying areas for cost optimization enables us to streamline operations and maximize profits, ensuring sustainable growth in the long run.
 
+📈 **Data-Driven Decisions:**
+Armed with reliable data, we're empowered to make informed decisions that steer us towards our strategic objectives, ensuring continued success in a competitive landscape.
+
 # 📌 The Report Consists of: 
 **Sales Reports:** 
 1. Customer Performance Report
@@ -69,8 +72,4 @@ Identifying areas for cost optimization enables us to streamline operations and 
 2. P & L Fiscal Yearly
 3. P & L for Markets
 4. P & L GM% by Quaters(sub-zone)
-
-
-📈 **Data-Driven Decisions:**
-Armed with reliable data, we're empowered to make informed decisions that steer us towards our strategic objectives, ensuring continued success in a competitive landscape.
 
